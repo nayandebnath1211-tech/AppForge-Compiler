@@ -1,0 +1,517 @@
+{
+  "timestamp": "2026-06-03 19:24:29",
+  "total_prompts": 20,
+  "success_rate": 100.0,
+  "product_success_rate": 100.0,
+  "edge_case_success_rate": 100.0,
+  "average_latency_ms": 0,
+  "average_retries": 0.0,
+  "total_estimated_cost_usd": 0.082,
+  "failure_categories": {},
+  "results": {
+    "products": [
+      {
+        "id": "prod-1",
+        "name": "CRM System",
+        "prompt": "Build a CRM with login, contacts, dashboard, role-based access, and premium plan with payments. Admins can see analytics.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-2",
+        "name": "E-Commerce Platform",
+        "prompt": "Build an e-commerce app with product listings, search, shopping cart, checkout, payments, and order history. Sellers can manage products, admins can see sales metrics.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-3",
+        "name": "Task Management Board",
+        "prompt": "Build a project board like Trello with columns, tasks, assignees, comments, drag-and-drop simulation, and premium tier for unlimited boards.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-4",
+        "name": "Customer Support Ticket Desk",
+        "prompt": "Build a support ticketing system with customer portal, agent view, ticket assignment, status tracking, SLA logic, and admin reporting.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-5",
+        "name": "Hotel Room Booking App",
+        "prompt": "Build a hotel booking platform with search, room availability check, booking creation, payments, and admin room management.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-6",
+        "name": "Developer API Analytics Dashboard",
+        "prompt": "Build an API analytics tracker with request logger, dashboard showing response times, usage limits gating for free tier, and alert setup.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-7",
+        "name": "Fitness Workout Planner",
+        "prompt": "Build a workout app with exercise log, routine planner, progress charts, premium personal trainer chat feature, and user profile.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-8",
+        "name": "Library Catalog Manager",
+        "prompt": "Build a library book management app with borrow/return tracking, fine payments, search by author/genre, and librarian dashboard.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-9",
+        "name": "Social Media Scheduler",
+        "prompt": "Build a social media post scheduler with draft creation, queue preview, premium automatic posting simulation, and content category analytics.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-10",
+        "name": "Inventory Tracking System",
+        "prompt": "Build an inventory management system with stock level tracking, low stock alerts, supplier information, purchase order approvals, and role access.",
+        "category": "product",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      }
+    ],
+    "edge_cases": [
+      {
+        "id": "edge-1",
+        "name": "Vague: Store website",
+        "prompt": "Make a website for a store where people do things.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-2",
+        "name": "Conflicting: Public but private database",
+        "prompt": "Build a public database where anyone can read all messages, but make sure only the sender and admin can see them.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-3",
+        "name": "Incomplete: Bare roles & payments",
+        "prompt": "Make an app with payment integration and user roles.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-4",
+        "name": "Conflicting: Premium only, but free/guest",
+        "prompt": "Create a dashboard for premium subscribers only, but it should be free and accessible to guests without signing in.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-5",
+        "name": "Vague: Items & Analytics",
+        "prompt": "An app for managing items with some analytics.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-6",
+        "name": "Incomplete: Dashboard only",
+        "prompt": "Build a dashboard.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-7",
+        "name": "Conflicting: Encrypted but editable by Admin",
+        "prompt": "A secure messaging app where messages are fully encrypted and stored in DB, but admins can edit any user's messages directly in the dashboard.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-8",
+        "name": "Incomplete: Booking system",
+        "prompt": "Make a booking system.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-9",
+        "name": "Vague: Tracks stuff",
+        "prompt": "Build a system that tracks stuff for a company.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      },
+      {
+        "id": "edge-10",
+        "name": "Conflicting: Free buy with payment checkout",
+        "prompt": "Build an e-commerce cart where users can buy items for free, but it must process payments for each checkout.",
+        "category": "edge_case",
+        "success": true,
+        "latency_ms": 0,
+        "retries": 0,
+        "cost_usd": 0.0041,
+        "errors": [],
+        "stages": [
+          {
+            "name": "Intent Extraction",
+            "latency_ms": 0
+          },
+          {
+            "name": "System Design Layer",
+            "latency_ms": 0
+          },
+          {
+            "name": "Schema Generation",
+            "latency_ms": 0
+          }
+        ]
+      }
+    ]
+  }
+}
