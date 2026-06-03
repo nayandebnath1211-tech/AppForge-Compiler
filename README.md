@@ -22,3 +22,5 @@ To run the automated tests:
 ```powershell
 python -m unittest tests.py
 ```
+### Demo Frontend
+<img width="1917" height="979" alt="Screenshot 2026-06-03 194921" src="https://github.com/user-attachments/assets/fc086bd6-6f7d-45f8-9a06-f7289ced95de" />
